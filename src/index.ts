@@ -14,7 +14,7 @@ import { toKebabCase } from './utils';
 
 type TS = typeof import('typescript');
 
-export function cmeAureliaPlugin(): Plugin {
+export function cemAureliaPlugin(): Plugin {
   return {
     name: 'cme-aurelia-plugin',
     analyzePhase(args) {
