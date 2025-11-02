@@ -85,7 +85,7 @@ function resolveCustomElementName(className: string, decorator: Decorator, ts: T
         const properties = arg.properties;
         properties.forEach(property => {
           if (property.kind === ts.SyntaxKind.PropertyAssignment && property.name.getText() === 'name') {
-            tagName = property.initializer.getText();
+            tagName = (property.initializer as StringLiteral).text;
           }
         });
       }
