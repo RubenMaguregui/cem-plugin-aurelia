@@ -1,6 +1,6 @@
 {
   "name": "cem-plugin-aurelia",
-  "version": "1.0.0-alpha.1",
+  "version": "1.0.0-alpha.2",
   "description": "A Custom Elements Manifest (CEM) analyzer plugin for the Aurelia framework",
   "keywords": [
     "custom-elements-manifest",
