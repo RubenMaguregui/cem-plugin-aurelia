@@ -2,8 +2,15 @@
   "name": "cem-plugin-aurelia",
   "version": "1.0.0-alpha.1",
   "description": "A Custom Elements Manifest (CEM) analyzer plugin for the Aurelia framework",
-  "type": "module",
+  "keywords": [
+    "custom-elements-manifest",
+    "cem",
+    "aurelia",
+    "web-components",
+    "intellisense"
+  ],
   "license": "MIT",
+  "type": "module",
   "bugs": {
     "url": "https://github.com/RubenMaguregui/cem-plugin-aurelia/issues"
   },
