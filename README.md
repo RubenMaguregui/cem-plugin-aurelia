@@ -1,1 +1,1 @@
-# `cem-aurelia-plugin`: A plugin for the `@custom-elements-manifest/analyzer` to offer support for Aurelia components.
+# `cem-plugin-aurelia`: A plugin for the `@custom-elements-manifest/analyzer` to offer support for Aurelia components.
